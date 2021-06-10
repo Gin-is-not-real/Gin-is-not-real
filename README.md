@@ -2,8 +2,8 @@
 #### I study development out of passion.  
 #### I am currently student at ACS ONLINE FORMAPRO
 #### for obtain 'web and web mobile developer' title
-#### and after, the title of 'application and 
-#### software developer'  
+#### and then, I hope to get the 
+###'application and software developer' title. 
 
 <!--
 **Gin-is-not-real/Gin-is-not-real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
