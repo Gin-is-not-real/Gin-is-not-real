@@ -1,5 +1,4 @@
-### Hello, I'm Nina Pariat ! [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gin-is-not-real&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)    
-
+### Hello, I'm Nina Pariat !   
 #### I study development out of passion.  
 #### I am currently student at ACS ONLINE FORMAPRO
 #### for obtain **web and web mobile developer** title
