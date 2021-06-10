@@ -1,4 +1,5 @@
-### Hello, I'm Nina Pariat !  
+### Hello, I'm Nina Pariat ! [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gin-is-not-real&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)    
+
 #### I study development out of passion.  
 #### I am currently student at ACS ONLINE FORMAPRO
 #### for obtain **web and web mobile developer** title
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Gin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gin-is-not-real&?count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gin-is-not-real&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gin-is-not-real&?count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gin-is-not-real&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![g](https://img.shields.io/static/v1?label=POO&message=Js,Php,Java&color=succes)
 ![g](https://img.shields.io/static/v1?label=Algorithmes&message=All&color=#DB2318&color=#DB2318)
