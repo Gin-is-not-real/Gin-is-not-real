@@ -1,8 +1,9 @@
 ### Hello, I'm Nina Pariat !  
 #### I study development out of passion.  
-#### I am currently student at ACS ONLINE FORMAPRO,
-#### for obtain the title 'web and web mobile developer'
-#### I plan to continue to obtain the title of 'application and software developer'  
+#### I am currently student at ACS ONLINE FORMAPRO
+#### for obtain 'web and web mobile developer' title
+#### and after, the title of 'application and 
+#### software developer'  
 
 <!--
 **Gin-is-not-real/Gin-is-not-real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
