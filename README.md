@@ -1,5 +1,5 @@
 ### Hello, I'm Nina Pariat ! 
-###I study development out of passion.
+##I study development out of passion.
 ##I am currently student at ACS ONLINE FORMAPRO for obtain the title 'web and web mobile developer', and I plan to continue to obtain the title of 'application and software developer'
 
 <!--
