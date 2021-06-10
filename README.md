@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 [![Gin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gin-is-not-real&?count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gin-is-not-real&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![g](https://img.shields.io/static/v1?label=POO&message=Javascript,PhP,Java&color=succes)
-![g](https://img.shields.io/static/v1?label=Algorithmes&message=POO&color=#DB2318)
-![g](https://img.shields.io/static/v1?label=Javascript&message=Audio_API&color=succes)
+![g](https://img.shields.io/static/v1?label=POO&message=Js,Php,Java&color=succes)
+![g](https://img.shields.io/static/v1?label=Algorithmes&message=All&color=#DB2318)
+![g](https://img.shields.io/static/v1?label=Audio_API&message=&Js=succes)
 ![g](https://img.shields.io/static/v1?label=Git&message=GitBash&color=succes)
 
 
