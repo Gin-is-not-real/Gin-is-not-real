@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![g](https://img.shields.io/static/v1?label=Javascript&message=POO&color=succes&color=#8B8DDB)
 ![g](https://img.shields.io/static/v1?label=Java&message=POO&color=red&color=#8B8DDB)
-![g](https://img.shields.io/static/v1?label=javascript&message=Audio_API&color=succes&color=#8B8DDB)
-![g](https://img.shields.io/static/v1?label=javascript&message=POO&color=succes&color=#8B8DDB)
+![g](https://img.shields.io/static/v1?label=Javascript&message=Audio_API&color=succes&color=#8B8DDB)
+![g](https://img.shields.io/static/v1?label=Git&message=GitBash&color=succes&color=#8B8DDB)
 
 
