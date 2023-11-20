@@ -1,7 +1,7 @@
 # Hello, I'm Nina P.
 ## I'm passionate about programming, sound synthesis and processing, midi design, electronics...and more!
 #### Here you will find some of my projects or tests, notably: synthesizers, sequencers, midi controllers, visualizations... 
-##### *but also dashboards, websites, back offices, and some formation projects*
+##### *...but also dashboards, websites, back offices, and some formation projects, tools scripts...*
 ***
 
 #### I also hold a professional title 'web and web mobile developer', studied ACS ONLINE FORMAPRO
