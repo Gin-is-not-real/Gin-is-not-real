@@ -1,11 +1,11 @@
 # Hello, I'm Nina P.
 ## I'm passionate about programming, sound synthesis and processing, midi design, electronics...and more!
-### Here you will find some of my projects or tests, notably: synthesizers, sequencers, midi controllers, visualizations... 
+#### Here you will find some of my projects or tests, notably: synthesizers, sequencers, midi controllers, visualizations... 
 ##### *but also dashboards, websites, back offices, and some formation projects*
 ***
 
-### I also hold a professional title 'web and web mobile developer', studied ACS ONLINE FORMAPRO
-## And then, I am looking for a company to train me in the fields of **software design**, **data engineering** or **AI**
+#### I also hold a professional title 'web and web mobile developer', studied ACS ONLINE FORMAPRO
+### And then, I am looking for a company to train me in the fields of **software design**, **data engineering** or **AI**
 
 <!--
 **Gin-is-not-real/Gin-is-not-real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Gin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gin-is-not-real&?count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gin-is-not-real&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![g](https://img.shields.io/static/v1?label=POO&message=Js,Php,Java&color=succes)
