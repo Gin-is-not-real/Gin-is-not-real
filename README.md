@@ -1,10 +1,11 @@
-## Hello, I'm Nina P.
-#### I'm passionate about programming, sound synthesis and processing, midi design, electronics...and more!
-Here you will find some of my projects or tests, notably: synthesizers, sequencers, midi controllers, visualizations... but also dashboards, websites, back offices, and some formation projects
+# Hello, I'm Nina P.
+## I'm passionate about programming, sound synthesis and processing, midi design, electronics...and more!
+### Here you will find some of my projects or tests, notably: synthesizers, sequencers, midi controllers, visualizations... 
+##### *but also dashboards, websites, back offices, and some formation projects*
 ***
 
-#### I also hold a professional title 'web and web mobile developer', studied ACS ONLINE FORMAPRO
-#### And then, I am looking for a company to train me in the fields of **software design**, **data engineering** or **AI**
+### I also hold a professional title 'web and web mobile developer', studied ACS ONLINE FORMAPRO
+## And then, I am looking for a company to train me in the fields of **software design**, **data engineering** or **AI**
 
 <!--
 **Gin-is-not-real/Gin-is-not-real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
