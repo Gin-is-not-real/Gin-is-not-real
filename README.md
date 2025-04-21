@@ -1,4 +1,4 @@
-# Hello, I'm Nina P.
+# Hello, I'm Gin ! (Nina)
 ## I'm passionate about programming, sound synthesis and processing, midi design, electronics...and more!
 #### Here you will find some of my projects or tests, notably: synthesizers, sequencers, midi controllers, visualizations... 
 ##### *...but also dashboards, websites, back offices, and some formation projects, tools scripts...*
